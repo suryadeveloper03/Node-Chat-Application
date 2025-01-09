@@ -41,5 +41,3 @@ A real-time chat application built with **Node.js** and **Socket.io**, providing
 ## Contribution
 Contributions are welcome! Feel free to fork the repository, create new features, or report issues.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
