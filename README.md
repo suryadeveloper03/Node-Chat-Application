@@ -1,8 +1,8 @@
-# Node-Chat-Application
+# Node-Chat-Application 
 
-A real-time chat application built with **Node.js** and **Socket.io**, providing a seamless communication experience. This project includes features like user authentication, dynamic chat rooms, and real-time message broadcasting.
+A real-time chat application built with **Node.js** and **Socket.io**, providing a seamless communication experience. This project includes features like user authentication, dynamic chat rooms, and real-time message broadcasting. 
 
-## Features
+## Features 
 - **Real-Time Messaging**: Instant message updates using WebSockets.  
 - **Dynamic Chat Rooms**: Create and join chat rooms on the fly.  
 - **User Authentication**: Basic login functionality for secure access.  
